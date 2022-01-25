@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["mbuckman@fastly.com"]
+description = "This is an example and starter for using Typescript on C@E"
+language = "javascript"
+manifest_version = 2
+name = "buckman-typescript-demo"
+service_id = "5IHOE73QI7uKypfAYaSxF7"
