@@ -9,7 +9,7 @@
       "version": "0.2.0",
       "license": "MIT",
       "dependencies": {
-        "@fastly/js-compute": "^0.2.1"
+        "@fastly/js-compute": "^0.2.4"
       },
       "devDependencies": {
         "core-js": "^3.19.1",
@@ -32,9 +32,9 @@
       }
     },
     "node_modules/@fastly/js-compute": {
-      "version": "0.2.1",
-      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-0.2.1.tgz",
-      "integrity": "sha512-RfUNpGTUSdansiECoe1PPcAcgAGQ7A/vuM3Via+G+nc6vWbyU/mlriX5kUIa7jrafzbnz4vX3/ih8GZ/DCq3/A==",
+      "version": "0.2.4",
+      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-0.2.4.tgz",
+      "integrity": "sha512-2e26D/2FiIF7W0eahvlp7NAoLwKTNdMi75W9vjaNbpUf2RPiYS0TkNvp5zJ4QlYF7h55ocKE4oM8iTTDYXfmZA==",
       "bin": {
         "js-compute-runtime": "js-compute-runtime-cli.js"
       }
@@ -1572,9 +1572,9 @@
       "dev": true
     },
     "@fastly/js-compute": {
-      "version": "0.2.1",
-      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-0.2.1.tgz",
-      "integrity": "sha512-RfUNpGTUSdansiECoe1PPcAcgAGQ7A/vuM3Via+G+nc6vWbyU/mlriX5kUIa7jrafzbnz4vX3/ih8GZ/DCq3/A=="
+      "version": "0.2.4",
+      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-0.2.4.tgz",
+      "integrity": "sha512-2e26D/2FiIF7W0eahvlp7NAoLwKTNdMi75W9vjaNbpUf2RPiYS0TkNvp5zJ4QlYF7h55ocKE4oM8iTTDYXfmZA=="
     },
     "@types/eslint": {
       "version": "7.28.0",
